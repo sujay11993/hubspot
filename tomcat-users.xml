@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='cp1252'?>
+<tomcat-users>
+<user name="admin" password="admin" roles="cdata_admin" />
+</tomcat-users>
